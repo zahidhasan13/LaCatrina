@@ -18,7 +18,7 @@ $(document).ready(function (e) {
     nav: true,
     dots: false,
     navText: [
-      '<img src="../images/prev.png" alt="">',
+      '<img src="./images/prev.png" alt="">',
       '<img src="./images/next.png" alt="">',
     ],
     lazyLoad: true,
